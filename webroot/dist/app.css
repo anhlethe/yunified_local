@@ -1,0 +1,25 @@
+
+
+.bootstrap-tagsinput .tag { 
+border-radius: 0;
+border: 1px solid #ff5100;
+background-color: #ffc5ad;
+color: #ff5100;
+font-size: 14px;
+
+}
+
+.bootstrap-tagsinput { 
+width: 100%;
+padding: 12px 10px;
+line-height: 14px;
+font-family: 'webfonts-gotham-medium';
+border: 1px solid #ffc5ad;
+border-radius: 0;
+ }
+.bootstrap-tagsinput input{ 
+color: #333;
+ }
+ .bootstrap-tagsinput input:focus{ 
+ background-color: transparent;
+}
